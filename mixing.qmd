@@ -1,0 +1,59 @@
+---
+title: Ocean Mixing
+---
+
+The near-surface layer of the ocean hosts a variety of turbulent processes that act together to determine how water and its properties are mixed.  My research primarily focuses on processes that drive vertical mixing in this near-surface regime, through which the atmosphere and ocean interior ultimately exchange properties.  This problem is important for understanding how the ocean works and its role in weather and climate over a variety of timescales.  This includes the intense turbulence driven by extreme winds and waves under a tropical cycle, diurnal cycles of heating and cooling, and seasonal cycles of turbulence and boundary layer entrainment/detrainment.
+
+Much of my work focuses on developing parameterizations, or sub-models within an ocean circulation model that are designed to take information from the model (e.g., currents, waves, stratification, and surface fluxes of heat and momentum) and tell the model how much mixing occurs.  This is necessary because the models are specifically designed to address relatively large-scale problems, such as circulation on scales ranging from several kilometers to planetary scales, but mixing is a small-scale process dealing with fluctuations that occur on scales of meters and smaller.  The model therefore doesn't simulate the necessary information to directly resolve turbulence, hence the need to build these sub-model "parameterizations".
+
+![](./assets/images/silas-baisch-BBBGZXySLq0-unsplash.jpg){width=40%}  
+<small>Photo by <a href="https://unsplash.com/@silasbaisch">Silas Baisch</a> </small>  
+
+## energetic Planetary Boundary Layer
+
+There are numerous approaches to parameterizing the turbulence in the ocean for ocean circulation models.  Within [MOM6](https://github.com/NOAA-GFDL/MOM6), we have implemented a parameterization called the energetic Planetary Boundary Layer, or ePBL.  This parameterization utilizes foundational ideas about bulk energy budgets that drive boundary layer turbulence.  It is characterized by a balance between computational efficiency and representing important physical processes.  I work closely with Robert Hallberg at GFDL on continued development of this boundary layer parameterization.  
+
+* The main ideas behind ePBL: [Reichl and Hallberg, 2018](https://www.sciencedirect.com/science/article/pii/S1463500318301069)
+* Comparing ePBL amongst other similar parameterizations: [Li et al., 2019](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001810).
+* Enhancing ePBL with machine learning: [Sane et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003890)  
+
+## Langmuir Turbulence
+
+I work to understand the role of surface waves via Langmuir turbulence in ocean surface boundary layer mixing.  I studied Langmuir turbulence under tropical cyclones for the final two chapters of my Ph.D. disseration.  
+
+For studying upper ocean turbulence, we often work with Large Eddy Simulations (LES).  LES are used throughout various fluid mechanics problems and employ relatively high-resolution fluid dynamics simulations that are intended to directly resolve the length-scales where turbulent kinetic energy is produced, often with only simple turbulence closures for the smaller (unresolved) lengthscales.  LES for the upper ocean solve a special carefully manipulated form of the Navier-Stokes equations, known as the Wave-Averaged Navier-Stokes equations.  These equations include additional averaged turbulent production mechanisms that result in unique behavior of the physics of turbulence in the boundary layer, due to the presence of the Stokes drift associated with surface waves.
+
+* Investigating Langmuir turbulence under a hurricane in LES and observations: 
+[Rabe et al., 2014](https://journals.ametsoc.org/view/journals/phoc/45/3/jpo-d-14-0030.1.xml), [Wang et al., 2018](https://journals.ametsoc.org/view/journals/phoc/48/9/jpo-d-17-0258.1.xml), [Wang et al., 2019](https://journals.ametsoc.org/view/journals/phoc/49/12/jpo-d-19-0093.1.xml).
+* Developing new parameterizations for boundary layer mixing that include Langmuir turbulence for hurricanes:
+[Reichl et al., 2016](https://journals.ametsoc.org/view/journals/phoc/46/3/jpo-d-15-0106.1.xml), and in ePBL:
+[Reichl and Li, 2019](https://journals.ametsoc.org/view/journals/phoc/49/11/jpo-d-18-0258.1.xml).
+
+
+## Equatorial Upper Ocean Turbulence
+
+Heat is transported vertically by turbulence from the surface boundary layer into the upper ocean thermocline in the tropics.  This vertical pathway plays a fundemental role in planetary scale air-sea exchange.  By identifying and understanding biases in existing ocean models in representing these vertical fluxes, we seek to improve future generation models to more faithfully represent these processes.  
+
+* Improving representation of upper ocean mixing in the OM4 global ocean model [Reichl et al., 2024](https://dx.doi.org/10.1029/2023EA003485).  
+
+
+<a name="MLD"></a>
+
+## Mixed Layer Analysis in Ocean Models
+
+Building new ocean models requires robust evaluation mechanisms utilizing observations whenever possible.  It is important to consider new ways to diagnose and evaluate fundemental properties of ocean models, such as the ocean surface mixed layer.  We applied energetic principles to try to better pose problems related to mixed layer and boundary layer identification in observations and models to understand physics and improve models.
+
+* Energetics based analysis of the ocean surface mixed layer based on Argo data [Reichl et al., 2022](https://dx.doi.org/10.1029/2021JC018140).
+
+## Machine Learning for OSBL Parameterization  
+
+I am part of the [M2LInES project](https://m2lines.github.io/) to improve coupled atmosphere and ocean models using machine learning.
+
+* Application of neural networks to improve ePBL: [Sane et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003890)
+* Application of equation discovery to ePBL: [Sane et al., in review](missing_link)
+
+
+
+
+
+

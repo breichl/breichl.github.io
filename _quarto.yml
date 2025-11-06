@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Brandon Reichl"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - mixing.qmd
+      - fluxes.qmd
+      - models.qmd
+      - publications.qmd
+      - opportunities.qmd
+      - links.qmd
+    right:
+      - icon: github
+        href: https://github.com/breichl
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=d3HhgB8AAAAJ&hl=en
+
+format:
+  html:
+    theme:
+      - yeti
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+::: {.column-screen-inset}
+![](./assets/images/japanese-waves-painting.jpg){width=100%}  
+:::
+
+

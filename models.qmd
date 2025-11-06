@@ -1,0 +1,27 @@
+---
+title: Model Development
+---
+
+
+I participate in many aspects of the development of future generation Earth System Models.  I am presently a co-lead of GFDL's OM5 effort for developing a next generation ocean and cryosphere model.  As part of these efforts I contribute code to MOM6, test new ocean-physics parameterizations, enhance diagnostic capabilities for ocean models, and manage large numbers of development simulations.  I also co-lead a project to develop a coupled MOM6-SHiELD-WW3 model for regional applications to study km scale air-sea interactions.
+
+Current efforts include:  
+* OM5: [My overview talk at GFDL's 2025 lab review](https://www.gfdl.noaa.gov/wp-content/uploads/2025/01/2025ReviewQ1-5_OverviewOM5MOM6.pdf)  
+* SHiELD-MOM6 coupling: [Mouallem et al., 2025](http://dx.doi.org/10.5194/egusphere-2025-1690)  
+* SHiELD-MOM6-WW3 coupling  
+
+Previous published models:  
+* GFDL's CM4X Mode:  [Griffies et al., 2025a](https://doi.org/10.1029/2024MS004861) and [Griffies et al., 2025b](https://doi.org/10.1029/2024MS004862)  
+* GFDL's OM4 Ocean Sea-Ice Simulator: [Adcroft et al., 2019](https://dx.doi.org/10.1029/2019MS001726)  
+* GFDL's CM4 Climate Simulator: [Held et al., 2019](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001829)  
+* GFDL's ESM4.1 Earth System Simulator: [Dunne et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002015)  
+
+
+## Modular Ocean Model 6
+
+In MOM6 I have contributed code to improve many aspects of the code, particularly related to mixing and boundary layer parameterizations and surface wave effects.  I am an active participant within the MOM6 development team.
+
+## WAVEWATCH III
+
+In WAVEWATCH III I have contributed code to compute sea-state dependence wind stress parameterizations, Stokes drift information for coupled models, and have ambition to add more complete grid support for coupling to ocean models.
+

@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Under review\nSane, A., B. G. Reichl, A. Adcroft, L. Zanne, 2025: Machine Learned Equations for Vertical Mixing in the Ocean Surface Boundary Layer. Geophys. Res. Lett. In review.\nWu, X., A. T. Wittenberg, F. Zeng, B. G. Reichl, F. Lu, 2025: Pinpointing sources of equatorial Pacific climatological SST biases in a coupled GCM via surface flux adjustments. J. Adv. Model. Earth Sy. In revision.\nUchida, T., A. S. Bodner, B. G. Reichl, A. J. Adcroft, B. Fox-Kemper, M. Ilicak, M. Bentsen, G. M. Marques, W. Large, 2025: Representation of surface mixed-layer eddies affects the large-scale ventilation of the global ocean. Geophys. Res. Lett. In revision.\nWu, J., P. Perezhogin, D. J. Gagne, B. G. Reichl, A. C. Subramanian, E. J. Thompson, L. Zanne, 2025: Data-Driven Probabilistic Air-Sea Flux Parameterization. Geophys. Res. Lett. In review.\n\n\nPublished\n\nDeike, L., X. Zhou, P. Rustogi, R. H. R. Stanley, B. G. Reichl, S. M. Bushinsky, L. Resplandy, 2025: A universal wind-wave-bubble formulation for air-sea gas exchange and its impact on oxygen fluxes. Proc. Natl. Acad. Sci., 122(38), e2419319122 10.1073/pnas.2419319122\nGriffies, S. et al., 2025: The GFDL-CM4X climate model hierarchy, Part I: Model description and thermal properties. J. Adv. Model. Earth Sy., 17(10), e2024MS004861. 10.1029/2024MS004861\nGriffies et al., 2025: The GFDL-CM4X climate model hierarchy, Part II: Case studies. J. Adv. Model. Earth Sy., 17(10), e2024MS004862. 10.1029/2024MS004862\nMouallem, J., K. Gao, B. G. Reichl, L. Chilutti, L. Harris, R. Benson, N. Zadeh, J.-H. Chen, C. Zhang., 2025: Development of a High-Resolution Coupled SHiELD-MOM6 Model. Part I – Model Overview, Coupling Technique, and Validation in a Regional Setup. EGUsphere. 10.5194/egusphere-2025-1690\nRustogi, P., L. Resplandy, E. Liao, B. G. Reichl, L. Deike, 2025: Influence of wave-induced variability on ocean carbon uptake. Global Biogechem. Cy., 39(6). 10.1029/2024GB008382\nBalwada D., et al., 2024: Learning Machine Learning with Lorenz-96. Journal of Open Source Education, 7(82), 241, 10.21105/jose.00241\nReichl, B. G., A. T. Wittenberg, S. M. Griffies, A. Adcroft, 2024: Improving equatorial upper ocean vertical mixing in the NOAA/GFDL OM4 model. Earth and Space Science, 11, e2023EA003485. 10.1029/2023EA003485\nZhou, X., Reichl, B. G., Romero, L., & Deike, L., 2023: A sea state dependent gas transfer velocity for CO2 unifying theory, model, and field data. Earth Space Sci., 10, e2023EA003237. 10.1029/2023EA003237\nSane, A., B. G. Reichl, A. Adcroft, & L. Zanna, 2023: Parameterizing Vertical Mixing Coefficients in the Ocean Surface Boundary Layer using Neural Networks. J. Adv. Model. Earth Sy., 15, e2023MS003890. 10.1029/2023MS003890\nZhou, X., Hara, T., Ginis, I., D’Asaro, E., Reichl, B. G., 2023: Evidence of Langmuir mixing effects in the upper ocean layer during tropical cyclones using observations and a coupled wave-ocean model. J. Geophys. Res. Oceans, 128, e2023JC020062. 10.1029/2023JC020062\nDeike, L., B. G. Reichl, F. Paulot, 2022: A mechanistic sea spray generation function based on the sea state and the physics of bubble bursting. AGU Adv., 3, e2022AV000750. 10.1029/2022AV000750\nReichl, B. G., A. Adcroft, S. M. Griffies, R. Hallberg, 2022: A Potential Energy Analysis of Ocean Surface Mixed Layers. J. Geophys. Res. Oceans, 127, e2021JC018140. 10.1029/2021JC018140\nKim, H.-S., J. Meixner, B. Thomas, B. G. Reichl, B. Liu, A. Mehra, A. Wallcraft, 2022: Skill Assessment of NCEP Three-way Coupled HWRF-HYCOM-WW3 Modeling System: Hurricane Laura Case Study. Weather Forecast., 37(8), 1309-1331. 10.1175/WAF-D-21-0191.1\nZhou, X.-H., T. Hara, I. Ginis, E. D’Asaro, J.-Y. Hsu, & B. G. Reichl, 2022: Drag coefficient and its sea state dependence under tropical cyclones. J. Phys. Oceanogr,52(7), 1447-1470. 10.1175/JPO-D-21-0246.1\nDunne, J. P. et al., 2020: The GFDL Earth System Model version 4.1 (GFDL-ESM4.1): Overall coupled model description and simulation characteristic. J. Adv. Model. Earth Sy. 12, e2019MS002015. 10.1029/2019MS002015\nReichl, B.G, L. Deike, 2020: Contribution of sea-state dependent bubbles to air-sea carbon dioxide fluxes. Geophys. Res. Lett., 47, e2020GL087267. 10.1029/2020GL087267\nLi, Q., Reichl, B. G., et al., 2019: Comparing Ocean Surface Boundary Vertical Mixing Schemes Including Langmuir Turbulence, J. Adv. Model. Earth Sy. 11, 3545-3592. 10.1029/2019MS001810\nHeld, I. M., et al., 2019: Structure and performance of GFDL’s CM4.0 climate model. J. Adv. Model. Earth Sy., 11, 3691– 3727. 10.1029/2019MS001829\nWang, D., T. Kukulka, B.G. Reichl, T. Hara, and I. Ginis, 2019: Wind–Wave Misalignment Effects on Langmuir Turbulence in Tropical Cyclone Conditions. J. Phys. Oceanogr., 49, 3109–3126, 10.1175/JPO-D-19-0093.1\nAdcroft, A., et al., 2019. The GFDL global ocean and sea ice model OM4.0: Model description and simulation features. J. Adv. Model. Earth Sy., 11, 3167– 3211. 10.1029/2019MS001726\nReichl, B.G. and Q. Li, 2019: A Parameterization with a Constrained Potential Energy Conversion Rate of Vertical Mixing Due to Langmuir Turbulence. J. Phys. Oceanogr., 49, 2935–2959. 10.1175/JPO-D-18-0258.1\nReichl, B.G. and R. W. Hallberg, 2018: An energetically constrained planetary boundary layer (ePBL) approach for ocean climate simulations. Ocean Model. 132, 112-129. 10.1016/j.ocemod.2018.10.004\nVan Roekel, L.P., A.J. Adcroft, G. Danabasoglu, S.M. Griffies, B. Kauffman, W. Large, et al., 2018: The KPP boundary layer scheme for the ocean: Revisiting its formulation and benchmarking one-dimensional simulations relative to LES. J Adv. Model. Earth Sy., 10, 1-39. 10.1029/2018MS001336\nWang, D., T.Kukulka, B. G. Reichl, T. Hara, I. Ginis, and P. P. Sullivan, 2018: Interaction of Langmuir Turbulence and Inertial Currents in the Ocean Surface Boundary Layer under Tropical Cyclones. J. Phys. Oceanogr., 48, 1921-1940. 10.1175/JPO-D-17-0258.1\nReichl, B. G., T. Hara, I. Ginis, B. Thomas, T. Kukulka, and D. Wang, 2016: Impact of Sea-State Dependent Langmuir Turbulence on the Ocean Response to a Tropical Cyclone. Mon. Weather Rev., 144, 4569 -4590. 10.1175/MWR-D-16-0074.1\nReichl, B. G., D. Wang, T. Hara, I. Ginis, and T. Kukulka, 2016: Langmuir Turbulence Parameterization in Tropical Cyclone Conditions. J. Phys. Oceanogr., 46, 863-886. 10.1175/JPO-D-15-0106.1\nRabe, T. J., T. Kukulka, I. Ginis, T. Hara, B. G. Reichl, E. A. D’Asaro, R. R. Harcourt, and P. P. Sullivan, 2015: Langmuir Turbulence under Hurricane Gustav (2008). J. Phys. Oceanogr., 45, 657–677. 10.1175/JPO-D-14-0030.1\nReichl, B. G., T. Hara, and I. Ginis, 2014: Sea state dependence of the wind stress over the ocean under hurricane winds. J. Geophys. Res. Oceans, 119, 30–51. 10.1002/2013JC009289"
+  },
+  {
+    "objectID": "models.html",
+    "href": "models.html",
+    "title": "Model Development",
+    "section": "",
+    "text": "I participate in many aspects of the development of future generation Earth System Models. I am presently a co-lead of GFDL’s OM5 effort for developing a next generation ocean and cryosphere model. As part of these efforts I contribute code to MOM6, test new ocean-physics parameterizations, enhance diagnostic capabilities for ocean models, and manage large numbers of development simulations. I also co-lead a project to develop a coupled MOM6-SHiELD-WW3 model for regional applications to study km scale air-sea interactions.\nCurrent efforts include:\n* OM5: My overview talk at GFDL’s 2025 lab review\n* SHiELD-MOM6 coupling: Mouallem et al., 2025\n* SHiELD-MOM6-WW3 coupling\nPrevious published models:\n* GFDL’s CM4X Mode: Griffies et al., 2025a and Griffies et al., 2025b\n* GFDL’s OM4 Ocean Sea-Ice Simulator: Adcroft et al., 2019\n* GFDL’s CM4 Climate Simulator: Held et al., 2019\n* GFDL’s ESM4.1 Earth System Simulator: Dunne et al., 2020"
+  },
+  {
+    "objectID": "models.html#modular-ocean-model-6",
+    "href": "models.html#modular-ocean-model-6",
+    "title": "Model Development",
+    "section": "Modular Ocean Model 6",
+    "text": "Modular Ocean Model 6\nIn MOM6 I have contributed code to improve many aspects of the code, particularly related to mixing and boundary layer parameterizations and surface wave effects. I am an active participant within the MOM6 development team."
+  },
+  {
+    "objectID": "models.html#wavewatch-iii",
+    "href": "models.html#wavewatch-iii",
+    "title": "Model Development",
+    "section": "WAVEWATCH III",
+    "text": "WAVEWATCH III\nIn WAVEWATCH III I have contributed code to compute sea-state dependence wind stress parameterizations, Stokes drift information for coupled models, and have ambition to add more complete grid support for coupling to ocean models."
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "External Links",
+    "section": "",
+    "text": "Model Source Code I use\n\nMOM6\nWW3"
+  },
+  {
+    "objectID": "fluxes.html",
+    "href": "fluxes.html",
+    "title": "Air-Sea Fluxes",
+    "section": "",
+    "text": "Exchange of properties between the atmosphere and the open ocean occurs across a wavy interface. The properties of the surface waves determine the net exchange rates through various mechanisms. The surface wave field modifies the turbulence on both sides of the interface, injects air bubbles into the ocean mixed layer, and projects ocean spray droplets into the atmosphere. How we understand these processes is important for representing them and their impacts in large-scale models."
+  },
+  {
+    "objectID": "fluxes.html#bubbles-and-spray",
+    "href": "fluxes.html#bubbles-and-spray",
+    "title": "Air-Sea Fluxes",
+    "section": "Bubbles and spray",
+    "text": "Bubbles and spray\n\nPhoto by Silas Baisch \nI have a productive collaboration with Luc Deike’s group (Princeton) to better understand mechanisms and impacts of breaking waves and bubbles for air-sea fluxes.\n\nA universal wind-wave-bubble formulation Deike et al., 2025\n\nHow ocean carbon uptake is influenced by ocean surface waves Rustogi et al., 2025\n\nUsing theory, models, and observations to constrain parameterization of air-sea carbon dioxide fluxs Zhou et al., 2023\n\nA formulation for sea spray generation Deike, Reichl, and Paulot, 2022\n\nSea-state dependence of air-sea carbon dioxide fluxes due to bubbles Reichl and Deike, 2020"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am an oceanographer working at NOAA’s Geophysical Fluid Dynamics Laboratory. My research interests include ocean turbulence and mixing, air-sea interaction and fluxes, and developing ocean and wave models.\n\n\nAffiliation\nNOAA’s Geophysical Fluid Dynamics Laboratory (Princeton, NJ)\nOceanographer (2019-present)\nPrinceton University (Princeton, NJ)\nAssociate Research Scholar (2018-2019)\nPostdoctoral Research Associate (2016-2018)\nRider University (Lawrence, NJ)\nAdjunct Professor (2020-2022)\n\n\nTeaching\nPrinceton University\nProgram in Atmospheric and Oceanic Sciences\nGeophysical Fluid Dynamics (co-instructor 2023-2024, 2 classes)\nRider University\nGeological, Environmental, and Marine Sciences\nIntroduction to Oceanography (2020-2022, 3 classes)\n\n\nEducation\nUniversity of Rhode Island\nGraduate School of Oceanography\nPh.D. Oceanography (2015)\nKutztown University\nB.Sc. Physics (2010)\nB.Sc. Marine Science (2010)\nHonors Program"
+  },
+  {
+    "objectID": "mixing.html",
+    "href": "mixing.html",
+    "title": "Ocean Mixing",
+    "section": "",
+    "text": "The near-surface layer of the ocean hosts a variety of turbulent processes that act together to determine how water and its properties are mixed. My research primarily focuses on processes that drive vertical mixing in this near-surface regime, through which the atmosphere and ocean interior ultimately exchange properties. This problem is important for understanding how the ocean works and its role in weather and climate over a variety of timescales. This includes the intense turbulence driven by extreme winds and waves under a tropical cycle, diurnal cycles of heating and cooling, and seasonal cycles of turbulence and boundary layer entrainment/detrainment.\nMuch of my work focuses on developing parameterizations, or sub-models within an ocean circulation model that are designed to take information from the model (e.g., currents, waves, stratification, and surface fluxes of heat and momentum) and tell the model how much mixing occurs. This is necessary because the models are specifically designed to address relatively large-scale problems, such as circulation on scales ranging from several kilometers to planetary scales, but mixing is a small-scale process dealing with fluctuations that occur on scales of meters and smaller. The model therefore doesn’t simulate the necessary information to directly resolve turbulence, hence the need to build these sub-model “parameterizations”.\nPhoto by Silas Baisch"
+  },
+  {
+    "objectID": "mixing.html#energetic-planetary-boundary-layer",
+    "href": "mixing.html#energetic-planetary-boundary-layer",
+    "title": "Ocean Mixing",
+    "section": "energetic Planetary Boundary Layer",
+    "text": "energetic Planetary Boundary Layer\nThere are numerous approaches to parameterizing the turbulence in the ocean for ocean circulation models. Within MOM6, we have implemented a parameterization called the energetic Planetary Boundary Layer, or ePBL. This parameterization utilizes foundational ideas about bulk energy budgets that drive boundary layer turbulence. It is characterized by a balance between computational efficiency and representing important physical processes. I work closely with Robert Hallberg at GFDL on continued development of this boundary layer parameterization.\n\nThe main ideas behind ePBL: Reichl and Hallberg, 2018\nComparing ePBL amongst other similar parameterizations: Li et al., 2019.\nEnhancing ePBL with machine learning: Sane et al., 2023"
+  },
+  {
+    "objectID": "mixing.html#langmuir-turbulence",
+    "href": "mixing.html#langmuir-turbulence",
+    "title": "Ocean Mixing",
+    "section": "Langmuir Turbulence",
+    "text": "Langmuir Turbulence\nI work to understand the role of surface waves via Langmuir turbulence in ocean surface boundary layer mixing. I studied Langmuir turbulence under tropical cyclones for the final two chapters of my Ph.D. disseration.\nFor studying upper ocean turbulence, we often work with Large Eddy Simulations (LES). LES are used throughout various fluid mechanics problems and employ relatively high-resolution fluid dynamics simulations that are intended to directly resolve the length-scales where turbulent kinetic energy is produced, often with only simple turbulence closures for the smaller (unresolved) lengthscales. LES for the upper ocean solve a special carefully manipulated form of the Navier-Stokes equations, known as the Wave-Averaged Navier-Stokes equations. These equations include additional averaged turbulent production mechanisms that result in unique behavior of the physics of turbulence in the boundary layer, due to the presence of the Stokes drift associated with surface waves.\n\nInvestigating Langmuir turbulence under a hurricane in LES and observations: Rabe et al., 2014, Wang et al., 2018, Wang et al., 2019.\nDeveloping new parameterizations for boundary layer mixing that include Langmuir turbulence for hurricanes: Reichl et al., 2016, and in ePBL: Reichl and Li, 2019."
+  },
+  {
+    "objectID": "mixing.html#equatorial-upper-ocean-turbulence",
+    "href": "mixing.html#equatorial-upper-ocean-turbulence",
+    "title": "Ocean Mixing",
+    "section": "Equatorial Upper Ocean Turbulence",
+    "text": "Equatorial Upper Ocean Turbulence\nHeat is transported vertically by turbulence from the surface boundary layer into the upper ocean thermocline in the tropics. This vertical pathway plays a fundemental role in planetary scale air-sea exchange. By identifying and understanding biases in existing ocean models in representing these vertical fluxes, we seek to improve future generation models to more faithfully represent these processes.\n\nImproving representation of upper ocean mixing in the OM4 global ocean model Reichl et al., 2024."
+  },
+  {
+    "objectID": "mixing.html#mixed-layer-analysis-in-ocean-models",
+    "href": "mixing.html#mixed-layer-analysis-in-ocean-models",
+    "title": "Ocean Mixing",
+    "section": "Mixed Layer Analysis in Ocean Models",
+    "text": "Mixed Layer Analysis in Ocean Models\nBuilding new ocean models requires robust evaluation mechanisms utilizing observations whenever possible. It is important to consider new ways to diagnose and evaluate fundemental properties of ocean models, such as the ocean surface mixed layer. We applied energetic principles to try to better pose problems related to mixed layer and boundary layer identification in observations and models to understand physics and improve models.\n\nEnergetics based analysis of the ocean surface mixed layer based on Argo data Reichl et al., 2022."
+  },
+  {
+    "objectID": "mixing.html#machine-learning-for-osbl-parameterization",
+    "href": "mixing.html#machine-learning-for-osbl-parameterization",
+    "title": "Ocean Mixing",
+    "section": "Machine Learning for OSBL Parameterization",
+    "text": "Machine Learning for OSBL Parameterization\nI am part of the M2LInES project to improve coupled atmosphere and ocean models using machine learning.\n\nApplication of neural networks to improve ePBL: Sane et al., 2023\nApplication of equation discovery to ePBL: Sane et al., in review"
+  },
+  {
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Opportunities",
+    "section": "",
+    "text": "Open Postdoc Positions\nNone presently\nAlways feel free to contact me if you are interested in working together."
+  }
+]

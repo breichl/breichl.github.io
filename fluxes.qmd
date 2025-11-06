@@ -1,0 +1,19 @@
+---
+title: Air-Sea Fluxes
+---
+
+Exchange of properties between the atmosphere and the open ocean occurs across a wavy interface.  The properties of the surface waves determine the net exchange rates through various mechanisms.  The surface wave field modifies the turbulence on both sides of the interface, injects air bubbles into the ocean mixed layer, and projects ocean spray droplets into the atmosphere.  How we understand these processes is important for representing them and their impacts in large-scale models.  
+
+
+## Bubbles and spray
+
+![](./assets/images/silas-baisch-xJJVT6P2svM-unsplash.jpg){width=40%}  
+<small>Photo by <a href="https://unsplash.com/@silasbaisch">Silas Baisch</a> </small>  
+
+I have a productive collaboration with [Luc Deike's group (Princeton)](https://ldeike.princeton.edu/) to better understand mechanisms and impacts of breaking waves and bubbles for air-sea fluxes.  
+
+* A universal wind-wave-bubble formulation [Deike et al., 2025](http://dx.doi.org/10.1073/pnas.2419319122)  
+* How ocean carbon uptake is influenced by ocean surface waves [Rustogi et al., 2025](http://dx.doi.org/10.1029/2024GB008382)  
+* Using theory, models, and observations to constrain parameterization of air-sea carbon dioxide fluxs [Zhou et al., 2023](http://dx.doi.org/10.1029/2023EA003237)  
+* A formulation for sea spray generation [Deike, Reichl, and Paulot, 2022](http://dx.doi.org/10.1029/2022AV000750)  
+* Sea-state dependence of air-sea carbon dioxide fluxes due to bubbles [Reichl and Deike, 2020](http://dx.doi.org/10.1029/2020GL087267)  

@@ -1,0 +1,46 @@
+---
+title: "About Me"
+---
+
+![](./assets/images/Self_Photo.png ){width=25%} 
+
+I am an oceanographer working at NOAA's Geophysical Fluid Dynamics Laboratory.  My research interests include ocean turbulence and mixing, air-sea interaction and fluxes, and developing ocean and wave models.  
+
+<br clear="all" />
+
+# Affiliation
+
+__NOAA's Geophysical Fluid Dynamics Laboratory__ (Princeton, NJ)  
+Oceanographer (2019-present)  
+
+__Princeton University__ (Princeton, NJ)  
+Associate Research Scholar (2018-2019)  
+Postdoctoral Research Associate (2016-2018)  
+
+__Rider University__ (Lawrence, NJ)  
+Adjunct Professor (2020-2022)  
+
+# Teaching
+
+__Princeton University__  
+Program in Atmospheric and Oceanic Sciences  
+Geophysical Fluid Dynamics (co-instructor 2023-2024, 2 classes)
+
+__Rider University__  
+Geological, Environmental, and Marine Sciences  
+Introduction to Oceanography (2020-2022, 3 classes)
+
+# Education
+
+__University of Rhode Island__  
+Graduate School of Oceanography  
+Ph.D. Oceanography (2015)
+
+__Kutztown University__  
+B.Sc. Physics (2010)  
+B.Sc. Marine Science (2010)  
+Honors Program  
+
+
+
+

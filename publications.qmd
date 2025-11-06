@@ -1,0 +1,81 @@
+---
+title: Publications
+---
+
+
+# Under review
+
+
+Sane, A., B. G. Reichl, A. Adcroft, L. Zanne, 2025: Machine Learned Equations for Vertical
+Mixing in the Ocean Surface Boundary Layer. Geophys. Res. Lett. In review.
+
+Wu, X., A. T. Wittenberg, F. Zeng, B. G. Reichl, F. Lu, 2025: Pinpointing sources of
+equatorial Pacific climatological SST biases in a coupled GCM via surface flux adjustments. J.
+Adv. Model. Earth Sy. In revision.
+
+Uchida, T., A. S. Bodner, B. G. Reichl, A. J. Adcroft, B. Fox-Kemper, M. Ilicak, M. Bentsen,
+G. M. Marques, W. Large, 2025: Representation of surface mixed-layer eddies affects the
+large-scale ventilation of the global ocean. Geophys. Res. Lett. In revision.
+
+Wu, J., P. Perezhogin, D. J. Gagne, B. G. Reichl, A. C. Subramanian, E. J. Thompson, L.
+Zanne, 2025: Data-Driven Probabilistic Air-Sea Flux Parameterization. Geophys. Res. Lett. In review.
+
+
+# Published
+
+
+1. Deike, L., X. Zhou, P. Rustogi, R. H. R. Stanley, B. G. Reichl, S. M. Bushinsky, L. Resplandy, 2025: A universal wind-wave-bubble formulation for air-sea gas exchange and its impact on oxygen fluxes. Proc. Natl. Acad. Sci., 122(38), e2419319122 [10.1073/pnas.2419319122](https://dx.doi.org/10.1073/pnas.2419319122)
+
+1. Griffies, S. et al., 2025: The GFDL-CM4X climate model hierarchy, Part I: Model description and thermal properties. J. Adv. Model. Earth Sy., 17(10), e2024MS004861. [10.1029/2024MS004861](https://dx.doi.org/10.1029/2024MS004861)
+
+1. Griffies et al., 2025: The GFDL-CM4X climate model hierarchy, Part II: Case studies. J. Adv. Model. Earth Sy., 17(10), e2024MS004862. [10.1029/2024MS004862](https://dx.doi.org/10.1029/2024MS004862)
+
+1. Mouallem, J., K. Gao, B. G. Reichl, L. Chilutti, L. Harris, R. Benson, N. Zadeh, J.-H. Chen, C. Zhang., 2025: Development of a High-Resolution Coupled SHiELD-MOM6 Model. Part I – Model Overview, Coupling Technique, and Validation in a Regional Setup. EGUsphere. [10.5194/egusphere-2025-1690](https://dx.doi.org/10.5194/egusphere-2025-1690)
+
+1. Rustogi, P., L. Resplandy, E. Liao, B. G. Reichl, L. Deike, 2025: Influence of wave-induced variability on ocean carbon uptake. Global Biogechem. Cy., 39(6). [10.1029/2024GB008382](https://dx.doi.org/10.1029/2024GB008382)
+
+1. Balwada D., et al., 2024: Learning Machine Learning with Lorenz-96. Journal of Open Source Education, 7(82), 241, [10.21105/jose.00241](https://dx.doi.org/10.21105/jose.00241)
+
+1. Reichl, B. G., A. T. Wittenberg, S. M. Griffies, A. Adcroft, 2024: Improving equatorial upper ocean vertical mixing in the NOAA/GFDL OM4 model. Earth and Space Science, 11, e2023EA003485. [10.1029/2023EA003485](https://dx.doi.org/10.1029/2023EA003485)
+
+1. Zhou, X., Reichl, B. G., Romero, L., & Deike, L., 2023: A sea state dependent gas transfer velocity for CO2 unifying theory, model, and field data. Earth Space Sci., 10, e2023EA003237. [10.1029/2023EA003237](https://dx.doi.org/10.1029/2023EA003237)
+
+1. Sane, A., B. G. Reichl, A. Adcroft, & L. Zanna, 2023: Parameterizing Vertical Mixing Coefficients in the Ocean Surface Boundary Layer using Neural Networks. J. Adv. Model. Earth Sy., 15, e2023MS003890. [10.1029/2023MS003890](https://doi.org/10.1029/2023MS003890)
+
+1. Zhou, X., Hara, T., Ginis, I., D’Asaro, E., Reichl, B. G., 2023: Evidence of Langmuir mixing effects in the upper ocean layer during tropical cyclones using observations and a coupled wave-ocean model. J. Geophys. Res. Oceans, 128, e2023JC020062. [10.1029/2023JC020062](https://dx.doi.org/10.1029/2023JC020062)
+
+1. Deike, L., B. G. Reichl, F. Paulot, 2022: A mechanistic sea spray generation function based on the sea state and the physics of bubble bursting. AGU Adv., 3, e2022AV000750. [10.1029/2022AV000750](https://dx.doi.org/10.1029/2022AV000750)
+
+1. Reichl, B. G., A. Adcroft, S. M. Griffies, R. Hallberg, 2022: A Potential Energy Analysis of Ocean Surface Mixed Layers. J. Geophys. Res. Oceans, 127, e2021JC018140. [10.1029/2021JC018140](https://dx.doi.org/10.1029/2021JC018140)
+
+1. Kim, H.-S., J. Meixner, B. Thomas, B. G. Reichl, B. Liu, A. Mehra, A. Wallcraft, 2022: Skill Assessment of NCEP Three-way Coupled HWRF-HYCOM-WW3 Modeling System: Hurricane Laura Case Study. Weather Forecast., 37(8), 1309-1331. [10.1175/WAF-D-21-0191.1](https://dx.doi.org/10.1175/WAF-D-21-0191.1)
+
+1. Zhou, X.-H., T. Hara, I. Ginis, E. D’Asaro, J.-Y. Hsu, & B. G. Reichl, 2022: Drag coefficient and its sea state dependence under tropical cyclones. J. Phys. Oceanogr,52(7), 1447-1470. [10.1175/JPO-D-21-0246.1](https://dx.doi.org/10.1175/JPO-D-21-0246.1)
+
+1. Dunne, J. P. et al., 2020: The GFDL Earth System Model version 4.1 (GFDL-ESM4.1): Overall coupled model description and simulation characteristic. J. Adv. Model. Earth Sy. 12, e2019MS002015. [10.1029/2019MS002015](https://dx.doi.org/10.1029/2019MS002015)
+
+1. Reichl, B.G, L. Deike, 2020: Contribution of sea-state dependent bubbles to air-sea carbon dioxide fluxes. Geophys. Res. Lett., 47, e2020GL087267. [10.1029/2020GL087267](https://dx.doi.org/10.1029/2020GL087267)
+
+1. Li, Q., Reichl, B. G., et al., 2019: Comparing Ocean Surface Boundary Vertical Mixing Schemes Including Langmuir Turbulence, J. Adv. Model. Earth Sy. 11, 3545-3592. [10.1029/2019MS001810](https://dx.doi.org/10.1029/2019MS001810)
+
+1. Held, I. M., et al., 2019: Structure and performance of GFDL’s CM4.0 climate model. J. Adv. Model. Earth Sy., 11, 3691– 3727. [10.1029/2019MS001829](https://dx.doi.org/10.1029/2019MS001829)
+
+1. Wang, D., T. Kukulka, B.G. Reichl, T. Hara, and I. Ginis, 2019: Wind–Wave Misalignment Effects on Langmuir Turbulence in Tropical Cyclone Conditions. J. Phys. Oceanogr., 49, 3109–3126, [10.1175/JPO-D-19-0093.1](https://dx.doi.org/10.1175/JPO-D-19-0093.1)
+
+1. Adcroft, A., et al., 2019. The GFDL global ocean and sea ice model OM4.0: Model description and simulation features. J. Adv. Model. Earth Sy., 11, 3167– 3211. [10.1029/2019MS001726](https://dx.doi.org/10.1029/2019MS001726)
+
+1. Reichl, B.G. and Q. Li, 2019: A Parameterization with a Constrained Potential Energy Conversion Rate of Vertical Mixing Due to Langmuir Turbulence. J. Phys. Oceanogr., 49, 2935–2959. [10.1175/JPO-D-18-0258.1](https://dx.doi.org/10.1175/JPO-D-18-0258.1)
+
+1. Reichl, B.G. and R. W. Hallberg, 2018: An energetically constrained planetary boundary layer (ePBL) approach for ocean climate simulations. Ocean Model. 132, 112-129. [10.1016/j.ocemod.2018.10.004](https://10.1016/j.ocemod.2018.10.004)
+
+1. Van Roekel, L.P., A.J. Adcroft, G. Danabasoglu, S.M. Griffies, B. Kauffman, W. Large, et al., 2018: The KPP boundary layer scheme for the ocean: Revisiting its formulation and benchmarking one-dimensional simulations relative to LES. J Adv. Model. Earth Sy., 10, 1-39. [10.1029/2018MS001336](dx.doi.org/10.1029/2018MS001336)
+
+1. Wang, D., T.Kukulka, B. G. Reichl, T. Hara, I. Ginis, and P. P. Sullivan, 2018: Interaction of Langmuir Turbulence and Inertial Currents in the Ocean Surface Boundary Layer under Tropical Cyclones. J. Phys. Oceanogr., 48, 1921-1940. [10.1175/JPO-D-17-0258.1](https://dx.doi.org/10.1175/JPO-D-17-0258.1)
+
+1. Reichl, B. G., T. Hara, I. Ginis, B. Thomas, T. Kukulka, and D. Wang, 2016: Impact of Sea-State Dependent Langmuir Turbulence on the Ocean Response to a Tropical Cyclone. Mon. Weather Rev., 144, 4569 -4590. [10.1175/MWR-D-16-0074.1](https://10.1175/MWR-D-16-0074.1)
+
+1. Reichl, B. G., D. Wang, T. Hara, I. Ginis, and T. Kukulka, 2016: Langmuir Turbulence Parameterization in Tropical Cyclone Conditions. J. Phys. Oceanogr., 46, 863-886. [10.1175/JPO-D-15-0106.1](https://dx.doi.org/10.1175/JPO-D-15-0106.1)
+
+1. Rabe, T. J., T. Kukulka, I. Ginis, T. Hara, B. G. Reichl, E. A. D’Asaro, R. R. Harcourt, and P. P. Sullivan, 2015: Langmuir Turbulence under Hurricane Gustav (2008). J. Phys. Oceanogr., 45, 657–677. [10.1175/JPO-D-14-0030.1](https://dx.doi.org/10.1175/JPO-D-14-0030.1)
+
+1. Reichl, B. G., T. Hara, and I. Ginis, 2014: Sea state dependence of the wind stress over the ocean under hurricane winds. J. Geophys. Res. Oceans, 119, 30–51. [10.1002/2013JC009289](https://dx.doi.org/10.1002/2013JC009289)
